@@ -1,6 +1,7 @@
 Sreya Vadlamudi
-2371434
+vadlamudi@chapman.edu
 
+Source Files:
 Faculty.h
 facultyTable.txt
 mainprogram.cpp
