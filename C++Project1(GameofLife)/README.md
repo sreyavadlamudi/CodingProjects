@@ -1,5 +1,7 @@
 Sreya Vadlamudi
-2371434
+vadlamudi@chapman.edu 
+
+Source Files:
 Cell.h
 Cell.cpp
 Grid.h
